@@ -11,14 +11,13 @@ This app enhances the capabilities of Generative AI by integrating real-time web
 
 🚀 Features
 
-✅ Real-time Web Scraping – Fetches the latest information from web pages 📊✅ GPT-Powered Responses – Combines retrieved data with AI-generated insights 🤖✅ Fast & Efficient – Processes requests quickly using optimized web scraping 🔥
+✅ Real-time Web Scraping – Fetches the latest information from web pages 📊
+✅ GPT-Powered Responses – Combines retrieved data with AI-generated insights 🤖
+✅ Fast & Efficient – Processes requests quickly using optimized web scraping 🔥
 
 🏗️ Tech Stack Used
-
 🧠 OpenAI GPT – Generates human-like responses
-
 🌐 Web Scraping (BeautifulSoup) – Extracts useful information from the web
-
 🐍 Python – Core backend logic
 
 🎯 How to Set Up and Run Locally
@@ -26,36 +25,28 @@ This app enhances the capabilities of Generative AI by integrating real-time web
 Follow these steps to get the app up and running:
 
 1️⃣ Clone the Repository
-
 git clone https://github.com/MeeturiAjay/GenAI_RAG_app_using_OpenAI.git
 cd GenAI_RAG_app_using_OpenAI
 
 5️⃣ Run the Application
-
 If using Streamlit:
-
  streamlit run app.py
  
 
 🎉 Now, open your browser and start exploring AI-powered responses!
 
 🔥 Example Usage
-
 💡 User Input:📝 "Tell me the latest news about AI advancements."
 
 ⚙️ What happens in the backend?
-
 The app scrapes recent AI news from trusted websites. 🕵️
-
 It processes the retrieved text using OpenAI's GPT. 🧠
-
 The AI generates an insightful, up-to-date response. ✨
 
 📜 Final Response:"According to the latest reports from TechCrunch and MIT News, AI research has made significant progress in explainability and multimodal learning..."
 
 
 📬 Connect & Support
-
 If you find this project useful, please ⭐ star the repo and share it! 😊
 
 👥 Let's Connect!
