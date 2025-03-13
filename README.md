@@ -26,6 +26,7 @@ Follow these steps to get the app up and running:
 
 1️⃣ Clone the Repository
 git clone https://github.com/MeeturiAjay/GenAI_RAG_app_using_OpenAI.git
+
 cd GenAI_RAG_app_using_OpenAI
 
 5️⃣ Run the Application
