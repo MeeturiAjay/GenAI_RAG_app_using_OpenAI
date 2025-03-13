@@ -40,9 +40,9 @@ If using Streamlit:
 💡 User Input:📝 "Tell me the latest news about AI advancements."
 
 ⚙️ What happens in the backend?
-The app scrapes recent AI news from trusted websites. 🕵️
-It processes the retrieved text using OpenAI's GPT. 🧠
-The AI generates an insightful, up-to-date response. ✨
+- The app scrapes recent AI news from trusted websites. 🕵️
+- It processes the retrieved text using OpenAI's GPT. 🧠
+- The AI generates an insightful, up-to-date response. ✨
 
 📜 Final Response:"According to the latest reports from TechCrunch and MIT News, AI research has made significant progress in explainability and multimodal learning..."
 
