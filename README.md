@@ -6,19 +6,19 @@ Welcome to the GenAI RAG App! 🚀 This project demonstrates how to build a Retr
 
 This app enhances the capabilities of Generative AI by integrating real-time web data into responses. Traditional AI models rely on pre-trained knowledge, but RAG improves accuracy by fetching latest information from the web before generating responses.
 
-✔ Retrieval: Scrapes relevant data from websites 📡
-✔ Augmented Generation: Uses OpenAI's GPT to process and generate responses ✨
+## 🔍 Retrieval & Generation  
+✅ **Retrieval:** Scrapes relevant data from websites 🕊️  
+✅ **Augmented Generation:** Uses OpenAI's GPT to process and generate responses ✨  
 
-🚀 Features
+## 🚀 Features  
+🟢 **Real-time Web Scraping** – Fetches the latest information from web pages 📚  
+🟢 **GPT-Powered Responses** – Combines retrieved data with AI-generated insights 🤖  
+🟢 **Fast & Efficient** – Processes requests quickly using optimized web scraping 🔥  
 
-✅ Real-time Web Scraping – Fetches the latest information from web pages 📊
-✅ GPT-Powered Responses – Combines retrieved data with AI-generated insights 🤖
-✅ Fast & Efficient – Processes requests quickly using optimized web scraping 🔥
-
-🏗️ Tech Stack Used
-🧠 OpenAI GPT – Generates human-like responses
-🌐 Web Scraping (BeautifulSoup) – Extracts useful information from the web
-🐍 Python – Core backend logic
+## 🛠 Tech Stack Used  
+🧠 **OpenAI GPT** – Generates human-like responses  
+🌐 **Web Scraping (BeautifulSoup)** – Extracts useful information from the web  
+🐍 **Python** – Core backend logic  
 
 🎯 How to Set Up and Run Locally
 
